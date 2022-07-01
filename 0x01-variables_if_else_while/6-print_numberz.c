@@ -1,4 +1,4 @@
-I#include <stdio.h>
+#include <stdio.h>
 
 /**
  *main - print all single digit numbers of base 10 from 0 followed by new line

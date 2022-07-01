@@ -3,3 +3,4 @@ This an assignment ALX low level programmiing language.
 1-last digit.c Prints the last digit of a randomly generated number
 program that prints the alphabet in lowercase, followed by a new line.
 program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+program that prints the alphabet in lowercase, followed by a new line.

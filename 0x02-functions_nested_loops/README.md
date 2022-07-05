@@ -11,3 +11,4 @@ function that prints the 9 times table, starting with 0.
 function that adds two integers and returns the result.
 function that prints all natural numbers from n to 98, followed by a new line.
 function that prints the n times table, starting with 0.
+prints the sum of the even-valued terms, followed by a new line.

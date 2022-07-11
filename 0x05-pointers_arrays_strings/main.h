@@ -1,6 +1,4 @@
-#ifndef MAIN_H
-#define MAIN_H
-
-#include <stdio.h>
+#ifndef _HOLBERTON_H_
+#define _HOLBERTON_H_
 
 void reset_to_98(int *n);

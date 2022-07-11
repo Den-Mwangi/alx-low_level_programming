@@ -4,9 +4,14 @@
  * _strlen - get a string length
  * @s: character pointer
  *
- * Return: integer len
+ * Return: the length of the string
  */
 int _strlen(char *s)
 {
-	return (strlen(s));
+	int len;
+
+	len = 0;
+	while (*(s + len) != '\0')
+		len++;
+	return (len);
 }

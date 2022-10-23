@@ -5,6 +5,7 @@
 *                  a key in a hash table.
 * @ht: A pointer to the hash table.
 * @key: The key to get the value of.
+*
 * Return: If the key cannot be matched - NULL.
 *         Otherwise - the value associated with key in ht.
 */
